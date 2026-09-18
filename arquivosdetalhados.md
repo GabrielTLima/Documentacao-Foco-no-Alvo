@@ -8,3 +8,6 @@ Contém todas as imagens utilizados no projeto, como foto de produtos, logos, ic
 ## style.css
 É responsável por toda a estilização do site, tornando melhor a experiência do usuário, adicionando animações de transição e hover nos cards dos produtos por meio
 das propriedades de opacity, transition e ease-out, adaptação e responsividade com o @media, max-width e min-width para definiar alturas e larguras máximas dos elementos.
+
+Acessar [Readme](README.md)
+Acessar [Funcionalidades detalhadas](funcionalidades.md)
