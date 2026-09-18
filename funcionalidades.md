@@ -9,3 +9,6 @@ precisa
 ## Sistema de paginação
 Utilizando as funções de filter e slice, que retornam IDs do HTML e objetos do Javascript, o sistema de paginação separa quais produtos mostrar de acordo com a 
 organização interna do site, assim como os filtros escolhidos pelo usuário
+
+Acessar [Readme](README.md)
+Acessar [Arquivos detalhados](arquivosdetalhados.md)
