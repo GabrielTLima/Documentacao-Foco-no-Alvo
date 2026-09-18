@@ -31,8 +31,8 @@ C:.
 └───js
         script.js
 
-Acessar [Funcionalidades detalhadas](funcionalidades.md)
-Acessar [Arquivos detalhados](arquivosdetalhados.md)
-
 ## Autores
 Arthur Rios Domingos, Gabriel Tomaz de Lima, Jhonatan Vogt Schimanski, Luan Lima Celestino e Vitor Daniel Lacerda Eichenberg
+
+Acessar [Funcionalidades detalhadas](funcionalidades.md)
+Acessar [Arquivos detalhados](arquivosdetalhados.md)
