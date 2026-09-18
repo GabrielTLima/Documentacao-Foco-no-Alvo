@@ -16,6 +16,7 @@ Visual Studio Code na versão 1.137, Google Chrome na versão 153.0.8010.47
 ## Funcionalidades
 Sistema de paginação de produtos, animações das páginas, sistema de busca e filtro, utilizando Javascript
 
+```shell
 ## Estrutura
 │   index.html
 │
@@ -29,6 +30,7 @@ Sistema de paginação de produtos, animações das páginas, sistema de busca e
 │
 └───js
         script.js
+```
 
 ## Autores
 Arthur Rios Domingos, Gabriel Tomaz de Lima, Jhonatan Vogt Schimanski, Luan Lima Celestino e Vitor Daniel Lacerda Eichenberg
