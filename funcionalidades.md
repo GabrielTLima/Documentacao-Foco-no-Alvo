@@ -1,4 +1,4 @@
-## Funcionalidades Detalhadas
+
 
 ## Animações
 As animações do site são feitas principalmente com CSS3. A propriedade opacity controla a transparência dos elementos, e a transition faz as mudanças de estado acontecerem de forma gradual, sem trocas bruscas. Com isso, os elementos aparecem e somem com suavidade, e a navegação fica mais fluida e agradável.
