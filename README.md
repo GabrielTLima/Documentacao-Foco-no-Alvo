@@ -2,7 +2,7 @@
 <span style="color:black">**Vitrine Digital**</span>
 
 ## Descrição
-A Foco no Alvo – Vitrine Digital é um portfólio online que apresenta as inovações tecnológicas da empresa no setor aeroagrícola. O site reúne os produtos em um só lugar, com informações claras e navegação simples, para que clientes e interessados conheçam as soluções sem precisar ir à loja física.
+A Foco no Alvo - Vitrine Digital é um portfólio online que apresenta as inovações tecnológicas da empresa no setor aeroagrícola. O site reúne os produtos em um só lugar, com informações claras e navegação simples, para que clientes e interessados conheçam as soluções sem precisar ir à loja física.
 
 ## Problema resolvido
 Falta de uma vitrine digital onde os produtos poderiam ser expostos, e ter maior abrangência do público alvo. Previamente, a empresa dependia exclusivamente da loja física e redes sociais para demonstração de seus drones.
