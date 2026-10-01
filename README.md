@@ -2,19 +2,24 @@
 Foco no Alvo - Vitrine Digital
 
 ## Descrição
-Portfólio digital com apresentação de inovações tecnológicas no ramo aero-agrícola
+A Foco no Alvo – Vitrine Digital é um portfólio online que apresenta as inovações tecnológicas da empresa no setor aeroagrícola. O site reúne os produtos em um só lugar, com informações claras e navegação simples, para que clientes e interessados conheçam as soluções sem precisar ir à loja física.
 
 ## Problema resolvido
 Falta de uma vitrine digital onde os produtos poderiam ser expostos, e ter maior abrangência do público alvo. Previamente, a empresa dependia exclusivamente da loja física e redes sociais para demonstração de seus drones.
 
 ## Requisitos operacionais
-HTML 5, CSS 3 e ECMAScript 2026
+Um navegador atualizado com suporte a HTML5, CSS3 e Javascript (ECMAScript 2026). O projeto foi testado no Google Chrome 153.0.8010.47.
 
 ## Ferramentas utilizadas
-Visual Studio Code na versão 1.137, Google Chrome na versão 153.0.8010.47
+- Visual Studio Code (versão 1.137): editor de código.
+- Google Chrome (versão 153.0.8010.47): testes e depuração com o DevTools.
 
 ## Funcionalidades
-Sistema de paginação de produtos, animações das páginas, sistema de busca e filtro, utilizando Javascript
+Todas as funcionalidades interativas foram feitas em JavaScript puro:
+- Paginação de produtos: Divide o catálogo em páginas, o que deixa a navegação mais leve e evita listas longas demais.
+- Busca: Permite procurar produtos pelo nome.
+- Filtros: Separa os produtos por critérios como categoria, aplicação, preço etc.
+- Animações: Transições e efeitos visuais que tornam a navegação mais fluida e agradável.
 
 ```shell
 ## Estrutura
