@@ -1,7 +1,7 @@
 ## index.html
 O index.html é o esqueleto do site e o ponto de entrada da aplicação. Ele guarda todo o conteúdo essencial da vitrine: nomes e descrições dos produtos, depoimentos de clientes e formas de contato com a empresa. Tudo o que o visitante vê é organizado a partir dele.
 
-O arquivo usa vários elementos nativos do HTML5. O <button> cria os botões de interação. O <input> forma os campos de texto do formulário de contato. A tag <a>, com o atributo href, cria os links para outras seções, páginas e sites externos. Juntos com outros elementos, eles deixam o código mais organizado, acessível e fácil de manter.
+O arquivo usa vários elementos nativos do HTML5. O [button] cria os botões de interação. O [input] forma os campos de texto do formulário de contato. A tag [a], com o atributo href, cria os links para outras seções, páginas e sites externos. Juntos com outros elementos, eles deixam o código mais organizado, acessível e fácil de manter.
 
 ## /imagens
 A pasta /imagens reúne todos os recursos visuais do projeto, como fotos dos produtos, logotipos da marca e ícones das formas de contato. Manter esses arquivos em um só diretório organiza melhor o projeto, facilita encontrar e substituir imagens e deixa os caminhos usados no HTML e no CSS mais simples.
