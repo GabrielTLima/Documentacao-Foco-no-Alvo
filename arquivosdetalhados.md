@@ -1,4 +1,4 @@
-## Arquivos Detalhados
+<title>Arquivos Detalhados</title>
 
 ## index.html
 O index.html é o esqueleto do site e o ponto de entrada da aplicação. Ele guarda todo o conteúdo essencial da vitrine: nomes e descrições dos produtos, depoimentos de clientes e formas de contato com a empresa. Tudo o que o visitante vê é organizado a partir dele.
