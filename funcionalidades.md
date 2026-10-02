@@ -1,7 +1,7 @@
 
 
 ## Animações
-As animações do site são feitas principalmente com CSS3. A propriedade opacity controla a transparência dos elementos, e a transition faz as mudanças de estado acontecerem de forma gradual, sem trocas bruscas. Com isso, os elementos aparecem e somem com suavidade, e a navegação fica mais fluida e agradável.
+As animações do site são feitas principalmente com CSS3. A propriedade opacity controla a transparência dos elementos, e a transition faz as mudanças de estado acontecerem de forma gradual, sem trocas bruscas. Com isso, os elementos aparecem e somem com suavidade, e a navegação fica mais agradável.
 
 O JavaScript completa esse comportamento ao responder às ações do usuário. O método addEventListener registra cliques, nos elementos da página. Quando um evento acontece, o script muda o estado do elemento, por exemplo adicionando ou removendo uma classe CSS, e isso dispara a animação definida no style.css. Assim, o CSS cuida da parte visual e o JavaScript cuida da interação.
 
